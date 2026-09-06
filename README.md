@@ -6,7 +6,7 @@ A Python web application that estimates wind turbine power output using the phys
 
 ## 🔗 Links
 - **Live Demo:** [your-streamlit-url-here]
-- **Walkthrough Video:** [your-youtube-url-here]
+- **Walkthrough Video:** (https://youtu.be/My1pSkBgQLA?si=iftkSjnR11gIEusi)
 
 ---
 
